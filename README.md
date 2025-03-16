@@ -17,7 +17,7 @@ Nighttime is the peak streaming period, while mornings have the lowest activity.
 Australia, South Korea, and the UK have the highest streaming times.
 
 Recommendations
-📌 Maximizing Engagement & Revenue:
+Maximizing Engagement & Revenue:
 Increase promotions for top-performing genres and artists (Rock, Jazz, EDM) to maximize engagement.
 Convert free users to premium by offering personalized recommendations and exclusive content.
 Create marketing campaigns for nighttime listeners since they engage more with music.
